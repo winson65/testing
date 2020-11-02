@@ -1,0 +1,403 @@
+id	name	kind
+Anatomy::UBERON:0000002	uterine cervix	Anatomy
+Anatomy::UBERON:0000004	nose	Anatomy
+Anatomy::UBERON:0000006	islet of Langerhans	Anatomy
+Anatomy::UBERON:0000007	pituitary gland	Anatomy
+Anatomy::UBERON:0000010	peripheral nervous system	Anatomy
+Anatomy::UBERON:0000011	parasympathetic nervous system	Anatomy
+Anatomy::UBERON:0000013	sympathetic nervous system	Anatomy
+Anatomy::UBERON:0000020	sense organ	Anatomy
+Anatomy::UBERON:0000026	appendage	Anatomy
+Anatomy::UBERON:0000029	lymph node	Anatomy
+Anatomy::UBERON:0000033	head	Anatomy
+Anatomy::UBERON:0000038	follicular fluid	Anatomy
+Anatomy::UBERON:0000042	serous membrane	Anatomy
+Anatomy::UBERON:0000043	tendon	Anatomy
+Anatomy::UBERON:0000045	ganglion	Anatomy
+Anatomy::UBERON:0000053	macula lutea	Anatomy
+Anatomy::UBERON:0000054	macula	Anatomy
+Anatomy::UBERON:0000056	ureter	Anatomy
+Anatomy::UBERON:0000057	urethra	Anatomy
+Anatomy::UBERON:0000165	mouth	Anatomy
+Anatomy::UBERON:0000178	blood	Anatomy
+Anatomy::UBERON:0000211	ligament	Anatomy
+Anatomy::UBERON:0000473	testis	Anatomy
+Anatomy::UBERON:0000474	female reproductive system	Anatomy
+Anatomy::UBERON:0000482	basal lamina of epithelium	Anatomy
+Anatomy::UBERON:0000483	epithelium	Anatomy
+Anatomy::UBERON:0000922	embryo	Anatomy
+Anatomy::UBERON:0000941	cranial nerve II	Anatomy
+Anatomy::UBERON:0000946	cardial valve	Anatomy
+Anatomy::UBERON:0000948	heart	Anatomy
+Anatomy::UBERON:0000949	endocrine system	Anatomy
+Anatomy::UBERON:0000955	brain	Anatomy
+Anatomy::UBERON:0000959	optic chiasma	Anatomy
+Anatomy::UBERON:0000964	cornea	Anatomy
+Anatomy::UBERON:0000966	retina	Anatomy
+Anatomy::UBERON:0000970	eye	Anatomy
+Anatomy::UBERON:0000974	neck	Anatomy
+Anatomy::UBERON:0000975	sternum	Anatomy
+Anatomy::UBERON:0000977	pleura	Anatomy
+Anatomy::UBERON:0000978	leg	Anatomy
+Anatomy::UBERON:0000982	skeletal joint	Anatomy
+Anatomy::UBERON:0000985	axillary vein	Anatomy
+Anatomy::UBERON:0000988	pons	Anatomy
+Anatomy::UBERON:0000989	penis	Anatomy
+Anatomy::UBERON:0000991	gonad	Anatomy
+Anatomy::UBERON:0000992	female gonad	Anatomy
+Anatomy::UBERON:0000993	oviduct	Anatomy
+Anatomy::UBERON:0000995	uterus	Anatomy
+Anatomy::UBERON:0000996	vagina	Anatomy
+Anatomy::UBERON:0000997	mammalian vulva	Anatomy
+Anatomy::UBERON:0000998	seminal vesicle	Anatomy
+Anatomy::UBERON:0000999	ejaculatory duct	Anatomy
+Anatomy::UBERON:0001000	vas deferens	Anatomy
+Anatomy::UBERON:0001003	skin epidermis	Anatomy
+Anatomy::UBERON:0001004	respiratory system	Anatomy
+Anatomy::UBERON:0001007	digestive system	Anatomy
+Anatomy::UBERON:0001008	renal system	Anatomy
+Anatomy::UBERON:0001011	hemolymph	Anatomy
+Anatomy::UBERON:0001013	adipose tissue	Anatomy
+Anatomy::UBERON:0001016	nervous system	Anatomy
+Anatomy::UBERON:0001017	central nervous system	Anatomy
+Anatomy::UBERON:0001021	nerve	Anatomy
+Anatomy::UBERON:0001031	sheath of Schwann	Anatomy
+Anatomy::UBERON:0001037	strand of hair	Anatomy
+Anatomy::UBERON:0001044	saliva-secreting gland	Anatomy
+Anatomy::UBERON:0001064	ventral pancreatic duct	Anatomy
+Anatomy::UBERON:0001067	vertebral arch joint	Anatomy
+Anatomy::UBERON:0001070	external carotid artery	Anatomy
+Anatomy::UBERON:0001072	posterior vena cava	Anatomy
+Anatomy::UBERON:0001088	urine	Anatomy
+Anatomy::UBERON:0001089	sweat	Anatomy
+Anatomy::UBERON:0001090	synovial fluid	Anatomy
+Anatomy::UBERON:0001093	vertebral bone 2	Anatomy
+Anatomy::UBERON:0001103	diaphragm	Anatomy
+Anatomy::UBERON:0001105	clavicle bone	Anatomy
+Anatomy::UBERON:0001111	intercostal muscle	Anatomy
+Anatomy::UBERON:0001130	vertebral column	Anatomy
+Anatomy::UBERON:0001132	parathyroid gland	Anatomy
+Anatomy::UBERON:0001135	smooth muscle tissue	Anatomy
+Anatomy::UBERON:0001140	renal vein	Anatomy
+Anatomy::UBERON:0001143	hepatic vein	Anatomy
+Anatomy::UBERON:0001148	median nerve	Anatomy
+Anatomy::UBERON:0001174	common bile duct	Anatomy
+Anatomy::UBERON:0001175	common hepatic duct	Anatomy
+Anatomy::UBERON:0001182	superior mesenteric artery	Anatomy
+Anatomy::UBERON:0001183	inferior mesenteric artery	Anatomy
+Anatomy::UBERON:0001184	renal artery	Anatomy
+Anatomy::UBERON:0001193	hepatic artery	Anatomy
+Anatomy::UBERON:0001194	splenic artery	Anatomy
+Anatomy::UBERON:0001224	renal pelvis	Anatomy
+Anatomy::UBERON:0001225	cortex of kidney	Anatomy
+Anatomy::UBERON:0001228	renal papilla	Anatomy
+Anatomy::UBERON:0001231	nephron tubule	Anatomy
+Anatomy::UBERON:0001232	collecting duct of renal tubule	Anatomy
+Anatomy::UBERON:0001235	adrenal cortex	Anatomy
+Anatomy::UBERON:0001236	adrenal medulla	Anatomy
+Anatomy::UBERON:0001237	paraaortic body	Anatomy
+Anatomy::UBERON:0001264	pancreas	Anatomy
+Anatomy::UBERON:0001267	femoral nerve	Anatomy
+Anatomy::UBERON:0001283	bile canaliculus	Anatomy
+Anatomy::UBERON:0001285	nephron	Anatomy
+Anatomy::UBERON:0001288	loop of Henle	Anatomy
+Anatomy::UBERON:0001295	endometrium	Anatomy
+Anatomy::UBERON:0001296	myometrium	Anatomy
+Anatomy::UBERON:0001300	scrotum	Anatomy
+Anatomy::UBERON:0001305	ovarian follicle	Anatomy
+Anatomy::UBERON:0001310	umbilical artery	Anatomy
+Anatomy::UBERON:0001322	sciatic nerve	Anatomy
+Anatomy::UBERON:0001323	tibial nerve	Anatomy
+Anatomy::UBERON:0001324	common fibular nerve	Anatomy
+Anatomy::UBERON:0001343	seminiferous tubule of testis	Anatomy
+Anatomy::UBERON:0001348	brown adipose tissue	Anatomy
+Anatomy::UBERON:0001352	external acoustic meatus	Anatomy
+Anatomy::UBERON:0001361	femoral vein	Anatomy
+Anatomy::UBERON:0001365	sacro-iliac joint	Anatomy
+Anatomy::UBERON:0001394	axillary artery	Anatomy
+Anatomy::UBERON:0001398	brachial artery	Anatomy
+Anatomy::UBERON:0001404	radial artery	Anatomy
+Anatomy::UBERON:0001406	ulnar artery	Anatomy
+Anatomy::UBERON:0001437	epiphysis	Anatomy
+Anatomy::UBERON:0001456	face	Anatomy
+Anatomy::UBERON:0001460	arm	Anatomy
+Anatomy::UBERON:0001461	elbow	Anatomy
+Anatomy::UBERON:0001463	manual digit 1	Anatomy
+Anatomy::UBERON:0001464	hip	Anatomy
+Anatomy::UBERON:0001465	knee	Anatomy
+Anatomy::UBERON:0001467	shoulder	Anatomy
+Anatomy::UBERON:0001469	sternoclavicular joint	Anatomy
+Anatomy::UBERON:0001470	glenohumeral joint	Anatomy
+Anatomy::UBERON:0001479	sesamoid bone	Anatomy
+Anatomy::UBERON:0001484	articular capsule	Anatomy
+Anatomy::UBERON:0001485	knee joint	Anatomy
+Anatomy::UBERON:0001486	hip joint	Anatomy
+Anatomy::UBERON:0001488	ankle joint	Anatomy
+Anatomy::UBERON:0001490	elbow joint	Anatomy
+Anatomy::UBERON:0001492	radial nerve	Anatomy
+Anatomy::UBERON:0001494	ulnar nerve	Anatomy
+Anatomy::UBERON:0001515	thoracic aorta	Anatomy
+Anatomy::UBERON:0001516	abdominal aorta	Anatomy
+Anatomy::UBERON:0001529	brachiocephalic artery	Anatomy
+Anatomy::UBERON:0001530	common carotid artery plus branches	Anatomy
+Anatomy::UBERON:0001532	internal carotid artery	Anatomy
+Anatomy::UBERON:0001533	subclavian artery	Anatomy
+Anatomy::UBERON:0001535	vertebral artery	Anatomy
+Anatomy::UBERON:0001544	popliteal vein	Anatomy
+Anatomy::UBERON:0001567	cheek	Anatomy
+Anatomy::UBERON:0001577	facial muscle	Anatomy
+Anatomy::UBERON:0001579	olfactory nerve	Anatomy
+Anatomy::UBERON:0001585	anterior vena cava	Anatomy
+Anatomy::UBERON:0001587	subclavian vein	Anatomy
+Anatomy::UBERON:0001594	azygos vein	Anatomy
+Anatomy::UBERON:0001597	masseter muscle	Anatomy
+Anatomy::UBERON:0001598	temporalis muscle	Anatomy
+Anatomy::UBERON:0001599	stapedius muscle	Anatomy
+Anatomy::UBERON:0001600	tensor tympani	Anatomy
+Anatomy::UBERON:0001616	maxillary artery	Anatomy
+Anatomy::UBERON:0001619	ophthalmic artery	Anatomy
+Anatomy::UBERON:0001620	central retinal artery	Anatomy
+Anatomy::UBERON:0001624	anterior cerebral artery	Anatomy
+Anatomy::UBERON:0001627	middle cerebral artery	Anatomy
+Anatomy::UBERON:0001633	basilar artery	Anatomy
+Anatomy::UBERON:0001636	posterior cerebral artery	Anatomy
+Anatomy::UBERON:0001637	artery	Anatomy
+Anatomy::UBERON:0001638	vein	Anatomy
+Anatomy::UBERON:0001640	celiac artery	Anatomy
+Anatomy::UBERON:0001643	oculomotor nerve	Anatomy
+Anatomy::UBERON:0001644	trochlear nerve	Anatomy
+Anatomy::UBERON:0001645	trigeminal nerve	Anatomy
+Anatomy::UBERON:0001646	abducens nerve	Anatomy
+Anatomy::UBERON:0001647	facial nerve	Anatomy
+Anatomy::UBERON:0001648	vestibulocochlear nerve	Anatomy
+Anatomy::UBERON:0001649	glossopharyngeal nerve	Anatomy
+Anatomy::UBERON:0001650	hypoglossal nerve	Anatomy
+Anatomy::UBERON:0001673	central retinal vein	Anatomy
+Anatomy::UBERON:0001675	trigeminal ganglion	Anatomy
+Anatomy::UBERON:0001676	occipital bone	Anatomy
+Anatomy::UBERON:0001677	sphenoid bone	Anatomy
+Anatomy::UBERON:0001678	temporal bone	Anatomy
+Anatomy::UBERON:0001679	ethmoid bone	Anatomy
+Anatomy::UBERON:0001681	nasal bone	Anatomy
+Anatomy::UBERON:0001684	mandible	Anatomy
+Anatomy::UBERON:0001685	hyoid bone	Anatomy
+Anatomy::UBERON:0001687	stapes bone	Anatomy
+Anatomy::UBERON:0001688	incus bone	Anatomy
+Anatomy::UBERON:0001689	malleus bone	Anatomy
+Anatomy::UBERON:0001690	ear	Anatomy
+Anatomy::UBERON:0001691	external ear	Anatomy
+Anatomy::UBERON:0001694	petrous part of temporal bone	Anatomy
+Anatomy::UBERON:0001697	orbit of skull	Anatomy
+Anatomy::UBERON:0001700	geniculate ganglion	Anatomy
+Anatomy::UBERON:0001702	eyelash	Anatomy
+Anatomy::UBERON:0001705	nail	Anatomy
+Anatomy::UBERON:0001707	nasal cavity	Anatomy
+Anatomy::UBERON:0001708	jaw skeleton	Anatomy
+Anatomy::UBERON:0001710	lower jaw region	Anatomy
+Anatomy::UBERON:0001711	eyelid	Anatomy
+Anatomy::UBERON:0001716	secondary palate	Anatomy
+Anatomy::UBERON:0001717	spinal nucleus of trigeminal nerve	Anatomy
+Anatomy::UBERON:0001720	cochlear nucleus	Anatomy
+Anatomy::UBERON:0001723	tongue	Anatomy
+Anatomy::UBERON:0001724	sphenoidal sinus	Anatomy
+Anatomy::UBERON:0001733	soft palate	Anatomy
+Anatomy::UBERON:0001734	palatine uvula	Anatomy
+Anatomy::UBERON:0001736	submandibular gland	Anatomy
+Anatomy::UBERON:0001737	larynx	Anatomy
+Anatomy::UBERON:0001744	lymphoid tissue	Anatomy
+Anatomy::UBERON:0001750	lacrimal apparatus	Anatomy
+Anatomy::UBERON:0001756	middle ear	Anatomy
+Anatomy::UBERON:0001759	vagus nerve	Anatomy
+Anatomy::UBERON:0001760	frontal sinus	Anatomy
+Anatomy::UBERON:0001762	turbinate bone	Anatomy
+Anatomy::UBERON:0001764	maxillary sinus	Anatomy
+Anatomy::UBERON:0001768	uvea	Anatomy
+Anatomy::UBERON:0001769	iris	Anatomy
+Anatomy::UBERON:0001771	pupil	Anatomy
+Anatomy::UBERON:0001772	corneal epithelium	Anatomy
+Anatomy::UBERON:0001773	sclera	Anatomy
+Anatomy::UBERON:0001775	ciliary body	Anatomy
+Anatomy::UBERON:0001776	optic choroid	Anatomy
+Anatomy::UBERON:0001777	substantia propria of cornea	Anatomy
+Anatomy::UBERON:0001780	spinal nerve	Anatomy
+Anatomy::UBERON:0001783	optic disc	Anatomy
+Anatomy::UBERON:0001785	cranial nerve	Anatomy
+Anatomy::UBERON:0001786	fovea centralis	Anatomy
+Anatomy::UBERON:0001796	aqueous humor of eyeball	Anatomy
+Anatomy::UBERON:0001805	autonomic ganglion	Anatomy
+Anatomy::UBERON:0001814	brachial nerve plexus	Anatomy
+Anatomy::UBERON:0001815	lumbosacral nerve plexus	Anatomy
+Anatomy::UBERON:0001818	tarsal gland	Anatomy
+Anatomy::UBERON:0001820	sweat gland	Anatomy
+Anatomy::UBERON:0001821	sebaceous gland	Anatomy
+Anatomy::UBERON:0001825	paranasal sinus	Anatomy
+Anatomy::UBERON:0001827	secretion of lacrimal gland	Anatomy
+Anatomy::UBERON:0001831	parotid gland	Anatomy
+Anatomy::UBERON:0001832	sublingual gland	Anatomy
+Anatomy::UBERON:0001833	lip	Anatomy
+Anatomy::UBERON:0001836	saliva	Anatomy
+Anatomy::UBERON:0001837	duct of salivary gland	Anatomy
+Anatomy::UBERON:0001840	semicircular canal	Anatomy
+Anatomy::UBERON:0001844	cochlea	Anatomy
+Anatomy::UBERON:0001846	internal ear	Anatomy
+Anatomy::UBERON:0001855	cochlear duct of membranous labyrinth	Anatomy
+Anatomy::UBERON:0001860	endolymphatic duct	Anatomy
+Anatomy::UBERON:0001864	scala tympani	Anatomy
+Anatomy::UBERON:0001866	sebum	Anatomy
+Anatomy::UBERON:0001884	phrenic nerve	Anatomy
+Anatomy::UBERON:0001886	choroid plexus	Anatomy
+Anatomy::UBERON:0001887	internal capsule of telencephalon	Anatomy
+Anatomy::UBERON:0001890	forebrain	Anatomy
+Anatomy::UBERON:0001891	midbrain	Anatomy
+Anatomy::UBERON:0001893	telencephalon	Anatomy
+Anatomy::UBERON:0001895	metencephalon	Anatomy
+Anatomy::UBERON:0001896	medulla oblongata	Anatomy
+Anatomy::UBERON:0001905	pineal body	Anatomy
+Anatomy::UBERON:0001908	optic tract	Anatomy
+Anatomy::UBERON:0001910	medial forebrain bundle	Anatomy
+Anatomy::UBERON:0001911	mammary gland	Anatomy
+Anatomy::UBERON:0001914	colostrum	Anatomy
+Anatomy::UBERON:0001968	semen	Anatomy
+Anatomy::UBERON:0001969	blood plasma	Anatomy
+Anatomy::UBERON:0001970	bile	Anatomy
+Anatomy::UBERON:0001971	gastric juice	Anatomy
+Anatomy::UBERON:0001980	arteriole	Anatomy
+Anatomy::UBERON:0001981	blood vessel	Anatomy
+Anatomy::UBERON:0001985	corneal endothelium	Anatomy
+Anatomy::UBERON:0001986	endothelium	Anatomy
+Anatomy::UBERON:0001988	feces	Anatomy
+Anatomy::UBERON:0001989	superior cervical ganglion	Anatomy
+Anatomy::UBERON:0002005	enteric nervous system	Anatomy
+Anatomy::UBERON:0002010	celiac nerve plexus	Anatomy
+Anatomy::UBERON:0002012	pulmonary artery	Anatomy
+Anatomy::UBERON:0002016	pulmonary vein	Anatomy
+Anatomy::UBERON:0002017	portal vein	Anatomy
+Anatomy::UBERON:0002018	synovial membrane of synovial joint	Anatomy
+Anatomy::UBERON:0002019	accessory XI nerve	Anatomy
+Anatomy::UBERON:0002028	hindbrain	Anatomy
+Anatomy::UBERON:0002030	nipple	Anatomy
+Anatomy::UBERON:0002037	cerebellum	Anatomy
+Anatomy::UBERON:0002040	bronchial artery	Anatomy
+Anatomy::UBERON:0002046	thyroid gland	Anatomy
+Anatomy::UBERON:0002048	lung	Anatomy
+Anatomy::UBERON:0002053	zona glomerulosa of adrenal gland	Anatomy
+Anatomy::UBERON:0002054	zona fasciculata of adrenal gland	Anatomy
+Anatomy::UBERON:0002055	zona reticularis of adrenal gland	Anatomy
+Anatomy::UBERON:0002060	femoral artery	Anatomy
+Anatomy::UBERON:0002061	truncus arteriosus	Anatomy
+Anatomy::UBERON:0002066	umbilical vein	Anatomy
+Anatomy::UBERON:0002067	dermis	Anatomy
+Anatomy::UBERON:0002073	hair follicle	Anatomy
+Anatomy::UBERON:0002081	cardiac atrium	Anatomy
+Anatomy::UBERON:0002082	cardiac ventricle	Anatomy
+Anatomy::UBERON:0002097	skin of body	Anatomy
+Anatomy::UBERON:0002099	cardiac septum	Anatomy
+Anatomy::UBERON:0002102	forelimb	Anatomy
+Anatomy::UBERON:0002103	hindlimb	Anatomy
+Anatomy::UBERON:0002107	liver	Anatomy
+Anatomy::UBERON:0002110	gall bladder	Anatomy
+Anatomy::UBERON:0002113	kidney	Anatomy
+Anatomy::UBERON:0002129	cerebellar cortex	Anatomy
+Anatomy::UBERON:0002130	cerebellar nuclear complex	Anatomy
+Anatomy::UBERON:0002134	tricuspid valve	Anatomy
+Anatomy::UBERON:0002135	mitral valve	Anatomy
+Anatomy::UBERON:0002137	aortic valve	Anatomy
+Anatomy::UBERON:0002146	pulmonary valve	Anatomy
+Anatomy::UBERON:0002148	locus ceruleus	Anatomy
+Anatomy::UBERON:0002162	area postrema	Anatomy
+Anatomy::UBERON:0002165	endocardium	Anatomy
+Anatomy::UBERON:0002185	bronchus	Anatomy
+Anatomy::UBERON:0002204	musculoskeletal system	Anatomy
+Anatomy::UBERON:0002205	manubrium of sternum	Anatomy
+Anatomy::UBERON:0002223	endolymphatic sac	Anatomy
+Anatomy::UBERON:0002226	basilar membrane of cochlea	Anatomy
+Anatomy::UBERON:0002228	rib	Anatomy
+Anatomy::UBERON:0002240	spinal cord	Anatomy
+Anatomy::UBERON:0002250	popliteal artery	Anatomy
+Anatomy::UBERON:0002275	reticular formation	Anatomy
+Anatomy::UBERON:0002279	vestibular aqueduct	Anatomy
+Anatomy::UBERON:0002282	stria vascularis of cochlear duct	Anatomy
+Anatomy::UBERON:0002285	telencephalic ventricle	Anatomy
+Anatomy::UBERON:0002286	third ventricle	Anatomy
+Anatomy::UBERON:0002294	biliary system	Anatomy
+Anatomy::UBERON:0002297	cerumen	Anatomy
+Anatomy::UBERON:0002298	brainstem	Anatomy
+Anatomy::UBERON:0002299	alveolus of lung	Anatomy
+Anatomy::UBERON:0002303	juxtaglomerular apparatus	Anatomy
+Anatomy::UBERON:0002347	thoracic vertebra	Anatomy
+Anatomy::UBERON:0002349	myocardium	Anatomy
+Anatomy::UBERON:0002351	sinoatrial node	Anatomy
+Anatomy::UBERON:0002352	atrioventricular node	Anatomy
+Anatomy::UBERON:0002353	atrioventricular bundle	Anatomy
+Anatomy::UBERON:0002354	purkinje fiber	Anatomy
+Anatomy::UBERON:0002356	perineum	Anatomy
+Anatomy::UBERON:0002360	meninx	Anatomy
+Anatomy::UBERON:0002361	pia mater	Anatomy
+Anatomy::UBERON:0002362	arachnoid mater	Anatomy
+Anatomy::UBERON:0002363	dura mater	Anatomy
+Anatomy::UBERON:0002365	exocrine gland	Anatomy
+Anatomy::UBERON:0002366	bulbo-urethral gland	Anatomy
+Anatomy::UBERON:0002367	prostate gland	Anatomy
+Anatomy::UBERON:0002368	endocrine gland	Anatomy
+Anatomy::UBERON:0002369	adrenal gland	Anatomy
+Anatomy::UBERON:0002371	bone marrow	Anatomy
+Anatomy::UBERON:0002377	muscle of neck	Anatomy
+Anatomy::UBERON:0002378	muscle of abdomen	Anatomy
+Anatomy::UBERON:0002382	rectus abdominis muscle	Anatomy
+Anatomy::UBERON:0002384	connective tissue	Anatomy
+Anatomy::UBERON:0002385	muscle tissue	Anatomy
+Anatomy::UBERON:0002386	forelimb zeugopod	Anatomy
+Anatomy::UBERON:0002387	pes	Anatomy
+Anatomy::UBERON:0002389	manual digit	Anatomy
+Anatomy::UBERON:0002390	hematopoietic system	Anatomy
+Anatomy::UBERON:0002392	nasolacrimal duct	Anatomy
+Anatomy::UBERON:0002394	bile duct	Anatomy
+Anatomy::UBERON:0002397	maxilla	Anatomy
+Anatomy::UBERON:0002398	manus	Anatomy
+Anatomy::UBERON:0002405	immune system	Anatomy
+Anatomy::UBERON:0002407	pericardium	Anatomy
+Anatomy::UBERON:0002410	autonomic nervous system	Anatomy
+Anatomy::UBERON:0002411	clitoris	Anatomy
+Anatomy::UBERON:0002413	cervical vertebra	Anatomy
+Anatomy::UBERON:0002414	lumbar vertebra	Anatomy
+Anatomy::UBERON:0002418	cartilage tissue	Anatomy
+Anatomy::UBERON:0002422	fourth ventricle	Anatomy
+Anatomy::UBERON:0002439	myenteric nerve plexus	Anatomy
+Anatomy::UBERON:0002441	cervicothoracic ganglion	Anatomy
+Anatomy::UBERON:0002450	decidua	Anatomy
+Anatomy::UBERON:0002453	ethmoid sinus	Anatomy
+Anatomy::UBERON:0002466	intestine secretion	Anatomy
+Anatomy::UBERON:0002481	bone tissue	Anatomy
+Anatomy::UBERON:0002486	glottis	Anatomy
+Anatomy::UBERON:0002494	papillary muscle of heart	Anatomy
+Anatomy::UBERON:0002497	acromion	Anatomy
+Anatomy::UBERON:0002500	zygomatic arch	Anatomy
+Anatomy::UBERON:0002501	oval window	Anatomy
+Anatomy::UBERON:0002502	round window of inner ear	Anatomy
+Anatomy::UBERON:0002512	corpus luteum	Anatomy
+Anatomy::UBERON:0002515	periosteum	Anatomy
+Anatomy::UBERON:0002516	epiphyseal plate	Anatomy
+Anatomy::UBERON:0002517	basicranium	Anatomy
+Anatomy::UBERON:0002518	otolith organ	Anatomy
+Anatomy::UBERON:0002519	otolithic part of statoconial membrane	Anatomy
+Anatomy::UBERON:0002521	elastic tissue	Anatomy
+Anatomy::UBERON:0002522	tunica media	Anatomy
+Anatomy::UBERON:0002523	tunica intima	Anatomy
+Anatomy::UBERON:0002606	neuropil	Anatomy
+Anatomy::UBERON:0002673	vestibular nuclear complex	Anatomy
+Anatomy::UBERON:0002707	corticospinal tract	Anatomy
+Anatomy::UBERON:0002741	diagonal band of Broca	Anatomy
+Anatomy::UBERON:0002925	trigeminal nucleus	Anatomy
+Anatomy::UBERON:0002944	spinothalamic tract of medulla	Anatomy
+Anatomy::UBERON:0003092	ultimobranchial body	Anatomy
+Anatomy::UBERON:0003126	trachea	Anatomy
+Anatomy::UBERON:0003129	skull	Anatomy
+Anatomy::UBERON:0003216	hard palate	Anatomy
+Anatomy::UBERON:0003685	cranial suture	Anatomy
+Anatomy::UBERON:0003889	fallopian tube	Anatomy
+Anatomy::UBERON:0004288	skeleton	Anatomy
+Anatomy::UBERON:0004452	carpal region	Anatomy
+Anatomy::UBERON:0004535	cardiovascular system	Anatomy
+Anatomy::UBERON:0004727	cochlear nerve	Anatomy
+Anatomy::UBERON:0004769	diaphysis	Anatomy
+Anatomy::UBERON:0006849	scapula	Anatomy
